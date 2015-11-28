@@ -19,4 +19,8 @@ Current compactable [WWU]'s include:
 1. The Winged Wireless Leach - http://WhereToBuy.com  
 
 
-### How To Use
+### How to upload codes with the Nectar-Web-Interface  
+##### Using -> The Winged Wireless Leach  
+1. Create an account with Winged Wireless  
+2. {TO DO}
+3. {@MOJO WE WILL GO TROUGH THIS WHEN WE MEET}
