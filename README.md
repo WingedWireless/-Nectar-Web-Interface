@@ -13,7 +13,7 @@ Current supported Bootloaders include:
 5. OptiBoot Bootloader  
 6. STK500V Bootloader  
 
-Wireless upload is done through a Winged Wireless Uploader [WWU].  
+Wireless upload is done through a Winged Wireless Uploader [WWU] connected to the target processor.  
 
 Current compactable [WWU]'s include:  
 1. The Winged Wireless Leach - http://WhereToBuy.com  
