@@ -3,7 +3,7 @@ This file contains *source codes* and *documentation* for the **Nectar Web Inter
 
 
 ### Purpose of the Nectar-Web-Interface
-The Nectar Web Interfacce [NWI] is an online graphical user interface that enables users to upload codes to various processors using bootloaders. 
+The Nectar Web Interfacce [NWI] is an online graphical user interface that enables users to upload codes to various processors using certain bootloaders. 
 
 Current supported Bootloaders include:  
 1. ATmegaBOOT Bootloader  
