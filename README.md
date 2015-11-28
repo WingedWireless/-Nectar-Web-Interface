@@ -14,8 +14,8 @@ Current supported Bootloaders include:
 6. STK500V Bootloader  
 
 Wireless upload is done through a Winged Wireless Uploader [WWU].  
-Current compactable [WWU]'s include: 
 
+Current compactable [WWU]'s include: 
 1. The Winged Wireless Leach - http://WhereToBuy.com  
 
 
